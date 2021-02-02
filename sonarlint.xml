@@ -1,0 +1,8 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <rules>
+      <Rule active="false" key="java:S1135" />
+      <Rule active="false" key="java:S1125" />
+    </rules>
+  </component>
+</application>

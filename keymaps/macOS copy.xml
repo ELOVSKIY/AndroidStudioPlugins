@@ -1,0 +1,18 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ConfigureIcs">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+  </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="ctrl meta alt e" />
+  </action>
+  <action id="Gradle.ToggleOfflineAction">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+</keymap>
