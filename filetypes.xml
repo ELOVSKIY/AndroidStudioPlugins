@@ -7,6 +7,7 @@
       <mapping pattern="DependenciesConstants" type="PLAIN_TEXT" />
       <mapping pattern="ParametrizedBuilder.gradle" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
     </extensionMap>
