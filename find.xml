@@ -5,18 +5,19 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.class</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.dex</mask>
     <mask>*.java</mask>
     <mask>*.yaml</mask>
     <mask>*.h</mask>
     <mask>*.proguard</mask>
     <mask>*.txt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
