@@ -1,0 +1,9 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_rewarded.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
