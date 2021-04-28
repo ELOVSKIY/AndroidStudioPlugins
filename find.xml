@@ -16,8 +16,8 @@
     <mask>*.h</mask>
     <mask>*.proguard</mask>
     <mask>*.txt</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
