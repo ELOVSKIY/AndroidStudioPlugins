@@ -14,7 +14,6 @@
       <mapping ext="knt" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
-      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
