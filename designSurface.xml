@@ -9,6 +9,8 @@
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_instream_controls_skin.xml" value="0.18085106382978725" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_rewarded.xml" value="0.1" />
         <entry key="samples/sample-mobileads/src/main/res/layout/activity_ad_request.xml" value="0.1" />
+        <entry key="samples/sample-mobileads/src/main/res/layout/activity_adfox_mediation_selection.xml" value="0.32382246376811596" />
+        <entry key="samples/sample-mobileads/src/main/res/layout/activity_third_party_ad_networks.xml" value="0.32382246376811596" />
       </map>
     </option>
   </component>
