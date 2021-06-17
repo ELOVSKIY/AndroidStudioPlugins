@@ -16,6 +16,8 @@
         <entry key="mobile-ads/src/main/res/drawable/yandex_ads_internal_rewarded_call_to_action_blue_solid_background.xml" value="0.20052083333333334" />
         <entry key="mobile-ads/src/main/res/drawable/yandex_ads_internal_rewarded_call_to_action_blue_stroke_background.xml" value="0.20052083333333334" />
         <entry key="mobile-ads/src/main/res/drawable/yandex_ads_internal_rewarded_close_shape_gray.xml" value="0.20052083333333334" />
+        <entry key="mobile-ads/src/main/res/drawable/yandex_ads_progress_view_background.xml" value="0.20052083333333334" />
+        <entry key="mobile-ads/src/main/res/drawable/yandex_instream_internal_direct_label.xml" value="0.20052083333333334" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_instream_controls_skin.xml" value="0.18085106382978725" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial.xml" value="0.1" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_close.xml" value="0.26403985507246375" />
