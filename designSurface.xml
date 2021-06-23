@@ -32,7 +32,7 @@
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_landscape_v2.xml" value="0.39895833333333336" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_portrait.xml" value="0.26403985507246375" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_rewaarded.xml" value="0.25416666666666665" />
-        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_rewarded.xml" value="0.4624871531346352" />
+        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_rewarded.xml" value="3.5651829435551994" />
         <entry key="perf-agent/src/main/res/layout/activity_admob_rewarded.xml" value="0.24230072463768115" />
         <entry key="samples/sample-mobileads/src/main/res/layout/activity_ad_request.xml" value="0.1" />
         <entry key="samples/sample-mobileads/src/main/res/layout/activity_adfox_mediation_selection.xml" value="0.32382246376811596" />
