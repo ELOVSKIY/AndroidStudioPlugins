@@ -27,6 +27,7 @@
         <entry key="mobile-ads/src/main/res/drawable/yandex_instream_internal_direct_label.xml" value="0.20052083333333334" />
         <entry key="mobile-ads/src/main/res/drawable/yandex_instream_internal_ic_sound_off.xml" value="0.4076923076923077" />
         <entry key="mobile-ads/src/main/res/drawable/yandex_instream_internal_ic_sound_on.xml" value="0.4076923076923077" />
+        <entry key="mobile-ads/src/main/res/drawable/yandex_instream_internal_progress_display.xml" value="0.3984375" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_instream_controls_skin.xml" value="0.39282051282051283" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial.xml" value="0.1" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_close.xml" value="0.39282051282051283" />
@@ -38,6 +39,7 @@
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_progress_red.xml" value="0.38333333333333336" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_rewaarded.xml" value="0.25416666666666665" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_rewarded.xml" value="0.507193623264626" />
+        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_video_progress_control.xml" value="0.38333333333333336" />
         <entry key="perf-agent/src/main/res/layout/activity_admob_rewarded.xml" value="0.24230072463768115" />
         <entry key="samples/sample-mobileads/src/main/res/layout/activity_ad_request.xml" value="0.1" />
         <entry key="samples/sample-mobileads/src/main/res/layout/activity_adfox_mediation_selection.xml" value="0.32382246376811596" />
