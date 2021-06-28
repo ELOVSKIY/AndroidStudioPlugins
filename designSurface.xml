@@ -22,12 +22,13 @@
         <entry key="mobile-ads/src/main/res/drawable/yandex_ads_internal_rewarded_call_to_action_blue_solid_background.xml" value="0.20052083333333334" />
         <entry key="mobile-ads/src/main/res/drawable/yandex_ads_internal_rewarded_call_to_action_blue_stroke_background.xml" value="0.20052083333333334" />
         <entry key="mobile-ads/src/main/res/drawable/yandex_ads_internal_rewarded_close_shape_gray.xml" value="0.4140625" />
-        <entry key="mobile-ads/src/main/res/drawable/yandex_ads_progress_view_background.xml" value="0.32685185185185184" />
+        <entry key="mobile-ads/src/main/res/drawable/yandex_ads_progress_view_background.xml" value="0.4076923076923077" />
         <entry key="mobile-ads/src/main/res/drawable/yandex_instream_internal_direct_label.xml" value="0.20052083333333334" />
-        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_instream_controls_skin.xml" value="0.18085106382978725" />
+        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_instream_controls_skin.xml" value="0.39282051282051283" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial.xml" value="0.1" />
-        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_close.xml" value="0.26403985507246375" />
-        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_content.xml" value="0.1" />
+        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_close.xml" value="0.39282051282051283" />
+        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_content.xml" value="0.39282051282051283" />
+        <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_landscape_sponsored_container.xml" value="0.39895833333333336" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_landscape_v1.xml" value="0.1838768115942029" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_landscape_v2.xml" value="0.39895833333333336" />
         <entry key="mobile-ads/src/main/res/layout/yandex_ads_internal_native_interstitial_portrait.xml" value="0.26403985507246375" />
