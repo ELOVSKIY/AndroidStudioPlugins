@@ -14,10 +14,10 @@
     <mask>*.proguard</mask>
     <mask>*.</mask>
     <mask>*.txt</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.md</mask>
     <mask>*.gradle</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
