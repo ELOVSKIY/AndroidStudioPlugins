@@ -1,5 +1,6 @@
 <application>
   <component name="PowerMode3Zeranthium">
+    <option name="enabled" value="false" />
     <option name="particleRGB" value="-4144960" />
     <option name="pathDataMap">
       <map>
