@@ -1,5 +1,11 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="AssignmentToNull" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GrUnresolvedAccess" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNonShortCircuitBoolean" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyRangeTypeCheck" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyUntypedAccess" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="LiteralAsArgToStringEquals" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NotNullFieldNotInitialized" enabled="true" level="NPE" enabled_by_default="true" />
   <inspection_tool class="NullableProblems" enabled="true" level="NPE" enabled_by_default="true">
     <option name="REPORT_NULLABLE_METHOD_OVERRIDES_NOTNULL" value="true" />
@@ -17,4 +23,6 @@
     <option name="m_reportCollectionMethods" value="true" />
     <option name="m_ignorePrivateMethods" value="false" />
   </inspection_tool>
+  <inspection_tool class="SimplifiableEqualsExpression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnnecessaryToStringCall" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
