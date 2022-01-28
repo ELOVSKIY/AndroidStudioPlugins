@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="09261FDD4005UG" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-28T11:51:10.010845Z" />
+        <name value="Google Pixel 5" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
