@@ -19,10 +19,21 @@
             <value value="16271JECB06692" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-31T10:06:25.003217Z" />
         <name value="Google Pixel 5a" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6b46118a" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-31T10:53:39.570396Z" />
+        <name value="Xiaomi Mi 10" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
