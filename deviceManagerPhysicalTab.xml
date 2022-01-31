@@ -8,6 +8,7 @@
             <value value="09261FDD4005UG" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-01-31T14:00:55.315247Z" />
         <name value="Google Pixel 5" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -19,7 +20,6 @@
             <value value="16271JECB06692" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-31T13:18:45.285319Z" />
         <name value="Google Pixel 5a" />
         <target value="Android 12.0" />
         <api value="31" />
