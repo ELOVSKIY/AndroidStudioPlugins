@@ -16,9 +16,9 @@
     <mask>*.md</mask>
     <mask>*.text</mask>
     <mask>*.txt</mask>
-    <mask>*.gradle</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
