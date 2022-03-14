@@ -5,24 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="16271JECB06692" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-14T14:28:07.625203Z" />
+        <name value="Google Pixel 5a" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="09261FDD4005UG" />
           </Key>
         </key>
         <name value="Google Pixel 5" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="16271JECB06692" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-02-08T11:51:28.110146Z" />
-        <name value="Google Pixel 5a" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
